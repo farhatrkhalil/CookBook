@@ -24,7 +24,7 @@
 * **Language:** Java (JDK 11+)
 * **Environment:** Android Studio 4.0+
 * **Compatibility:** Android SDK 23+ (Min API Level)
-* **Architecture:** MVC/MVVM (Adjust based on your actual code structure)
+* **Architecture:** Modular Android Pattern with a focus on Separation of Concerns
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Installing
